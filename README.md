@@ -10,8 +10,8 @@
 
 <!-- PROFILE VIEWS + FOLLOWERS -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hosatloon&label=Visitas%20al%20perfil&color=0e75b6&style=for-the-badge" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/Hosatloon?label=Seguidores&style=for-the-badge&color=0e75b6" alt="followers"/>
+  <img src="https://komarev.com/ghpvc/?username=Hosatioon&label=Visitas%20al%20perfil&color=0e75b6&style=for-the-badge" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/Hosatioon?label=Seguidores&style=for-the-badge&color=0e75b6" alt="followers"/>
 </div>
 
 <br/>
@@ -40,19 +40,19 @@
 ## 📊 Estadísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hosatloon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hosatloon&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hosatioon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hosatioon&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Hosatloon&theme=tokyonight&hide_border=true&locale=es" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com?user=Hosatioon&theme=tokyonight&hide_border=true&locale=es" alt="streak stats"/>
 </div>
 
 <!-- TROPHIES -->
 ## 🏆 Trofeos
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hosatloon&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Hosatioon&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
 </div>
 
 <!-- SNAKE ANIMATION -->
@@ -60,9 +60,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hosatloon/Hosatloon/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hosatloon/Hosatloon/output/github-contribution-grid-snake.svg"/>
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Hosatloon/Hosatloon/output/github-contribution-grid-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hosatioon/Hosatioon/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hosatioon/Hosatioon/output/github-contribution-grid-snake.svg"/>
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Hosatioon/Hosatioon/output/github-contribution-grid-snake.svg"/>
   </picture>
 </div>
 
@@ -70,14 +70,14 @@
 ## 📈 Actividad
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hosatloon&theme=tokyo-night&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hosatioon&theme=tokyo-night&hide_border=true&area=true"/>
 </div>
 
 <!-- SOCIAL -->
 ## 🤝 Conecta conmigo
 
 <div align="center">
-  <a href="https://github.com/Hosatloon"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/Hosatioon"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <!-- Agrega tus redes: -->
   <!-- <a href="https://linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
   <!-- <a href="https://instagram.com/TU_USUARIO"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> -->
