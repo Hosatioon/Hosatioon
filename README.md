@@ -147,7 +147,7 @@
   <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
-<a href="https://linkedin.com/in/TU_USUARIO">
+<a href="www.linkedin.com/in/haison-soto-54367634a">
   <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
 
